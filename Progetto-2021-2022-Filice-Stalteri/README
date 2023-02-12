@@ -1,0 +1,17 @@
+L'applicazione si presenta come uno store nel quale è possibile ricercare ed effettuare
+acquisti di manga, ogni singolo manga puo' essere aggiunto:
+- alla lista desideri, per poi essere spostato nel carrello (se si desidera), o 
+- direttamente al carrello.
+In seguito al pagamento è possibile visualizzare i propri acquisti nella libreria dalla quale
+sarà possibile scaricare i prodotti (non avendo la licenza faremo scaricare un example)
+
+Per scaricare correttamente il file example di prova è necessario aggiungere il suffisso .jpg al nome del file
+
+
+Ricerche da provare: One Piece, Pokemon, Dragon Ball, Berserk, JoJo, Hunter x Hunter
+
+Codice sconto da utilizzare: UIDsconto
+
+Credenziali account Firebase: email     progettouid@gmail.com
+                              password  Vapore1-
+
